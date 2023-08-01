@@ -61,7 +61,7 @@ function TooltipChart() {
     };
 
     const opts = {
-      id: "chart",
+      id: "upllot-chart-tooltip",
       title: "placement.js tooltip",
       width: 600,
       height: 400,
@@ -86,7 +86,7 @@ function TooltipChart() {
       ],
     };
     const opts2 = {
-      id: "chart",
+      id: "upllot-chart-tooltip",
       title: "placement.js tooltip",
       width: 600,
       height: 400,
